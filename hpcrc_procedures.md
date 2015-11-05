@@ -1,0 +1,72 @@
+# HPCRC Procedures and Policies
+### August 6, 2013
+
+## Notifications
+
+All departments with equipment in the HPCRC will be notified of any upcoming changes to any of the building systems that could affect operation of the building cooling or electrical systems.  Notification will be via e-mail to the hpcrc-admins list.
+
+## Access
+
+Access to the building, the computer room (“white space”) and various other spaces within the building is controlled by enabling individuals’ campus ID cards for that access.  All internal doors also require entry of a PIN code, which is set by Matt Petty.  
+
+Individuals request access by filling out the “Form to Access Princeton Data Cener Facilities”,  which is available on the IT Security web site (www.princeton.edu/itsecurity).  A manager or department head must also sign as a sponsor and specify the purpose for the individual’s access.  Sponsors will be asked to re-confirm access permissions quarterly.
+
+Access to the building is by the front door or by the door at the loading dock.  None of the rooms on the lower level are accessible to data center users, but access is provided to the stairs and the freight and passenger elevators.  On the first floor,  the conference room and meeting room are accessible by anyone who can enter the building.  The large meeting room can be reserved for any university function by contacting Matt Petty.
+
+On the second floor, in addition to the main data center room, all HPCRC users have access to the the conference room and console room in the front of the building and the Staging Room, and Burn-In Room in the back of the building and .  Anyone working in the building may also use the kitchenette on the  second floor.  Coffee and tea are provided by OIT.
+
+Some doors in the HPCRC are controlled by Salto locks.   The Salto readers do not have keypads, but access information on the card must be refreshed every two weeks.  To refresh Salto information on an ID card, touch the card to a “hot spot” readers.  When the refresh completes successfully, the light on the hot spot will turn green.  There is a hot spot in the lobby beside the door to the lower level.   The only user accessible room with a Salto lock is the storage room (see below).  See Matt Petty to have an ID card enabled for Salto access.
+
+## Locking computer cabinets 
+
+As of August 1, 2013 all cabinets in the white space will be locked.  Keys are kept in the Traka key control box located on the wall just inside the door from the console room to the white space.   Users swipe their cards on the reader located on the front of the key box.  This opens the door and enables release of any keys to which a user has access.   When a key release is enabled, the LED near the key turns green.  To remove a key, press the black button next to the key fob. Please remember to close the key box door after removing a key, and of course remember to return the key when you leave.
+
+## Delivering/Installing new equipment
+
+When moving equipment into the data center, you must use the loading dock.  This avoids the possibility of damage to the glass doors at the main entrance.
+
+Any new equipment should be unboxed in the burn-in room.  No packing material should be taken into the white space to maintain a clean environment for the computer systems.
+
+## Console Room
+
+The console room adjacent to the main data center room houses several desktop computers and a printer.  Three of the computers are restricted to OIT system administrators.  The other computers and the printer are available to all users of the facility.  Remember to logout when you have finished using one of these computers.
+
+## Storage 
+
+The storage room in the back of the building is available to all HPCRC users on request.  Depending on the amount of material to be stored, we can provide a dedicated, lockable cabinet or a shared cabinet.  Contact Matt Petty to request storage space.  Access to the storage room is controlled by a Salto lock.  
+
+## Telephones
+
+The floor plan diagram shows the location of telephones in the building.  Cell phone service should also be available throughout the building.  Notify Matt Petty if there are areas where you have no converage.
+
+## Safety
+
+Fire extinguishers are located around the periphery of the Computer Room and in other locattions throughout the building.  In case of fire, the first step is to contact Public Safety, either by calling 609-258-3333, or by pressing one of the “Duress Buttons” located near the doors to the Data Center Room.  
+
+Emergency Power Off (EPO) buttons are located near the exits from the Data Center Room.  These are to be use ONLY to avoid physical injury, e.g. by electrocution, for someone in the data center room.
+
+## Tools and Supplies
+
+Tools and various supplies (power cords, etc.) are kept in the Staging Room.  If you borrow any of the tools, please put them back.  If tools are accidentally broken or damaged, please notify Matt Petty, so they can be repaired or replaced.  If you use supplies, please make a note on the white board in the Staging Room, so Matt will know when to reorder.
+
+Several wheeled “crash carts” are located in the data center room near the window to the console room.  These devices contain a keyboard, mouse and monitor that can be connected to a server for debugging.
+
+Retractible extension cords (“cord reels”) are located  on each of the building pillars near rows C, H and L.   Each cord is 50 ft. long and can be used to plug in tools or other devices anywhere in the data center room.  The extension cord can be plugged into a power strip on the crash cart if you need to plug in multiple devices.  To avoid any possibility of overloads or power surges/dips in computer power supplies,  do not use the power strips inside the computer racks as convenience outlets
+
+## Parking
+
+Parking is available by the front door and in spaces along the driveway or in front of the building,.  
+
+## Staff
+
+The OIT Data Center Facilities group has three full-time staff members
+
+Matt Petty, Data Center Facilities Manager
+Tom Kaiser, Senior Data Center Technician
+Todd Starliper, Data Center Specialist
+
+ Their offices are in the front corridor on the second floor of the building.
+
+## Contact
+
+The on-call phone for Data Center Facilities is 8-7413.  Someone will answer this phone between 8:30 and 5:00 Monday through Friday.  E-mail to dcrequest@princeton.edu will be distributed to all Data Center Facilities staff.
